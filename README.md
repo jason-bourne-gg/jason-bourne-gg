@@ -2,18 +2,18 @@
 
 Welcome to my Github Profile. 
 
-I work as Big-Data Engineer for Sigmoid Analytics -  which provides engineered data solutions that empowers organizations to operationalize data faster and enhance decision making to drive better business outcomes.
+I work as Full-Stack Developer (Majorly Backend) for Sigmoid Analytics -  which provides engineered data solutions that empowers organizations to operationalize data faster and enhance decision making to drive better business outcomes.
 
 Visit : https://www.sigmoid.com/company/
 
-![](https://visitor-badge.glitch.me/badge?page_id=aniket-sigmoid.aniket-sigmoid)
+![](https://visitor-badge.glitch.me/badge?page_id=jason-bourne-gg.jason-bourne-gg)
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aniket-sigmoid&show_icons=true&theme=gotham" alt="aniket-sigmoid" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jason-bourne-gg&show_icons=true&theme=gotham" alt="jason-bourne-gg" />
 
 
-<p align="center"> <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-sigmoid&layout=compact&theme=gotham" />
+<p align="center"> <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=jason-bourne-gg&layout=compact&theme=gotham" />
 
 <!--
 **aniket-sigmoid/aniket-sigmoid** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
