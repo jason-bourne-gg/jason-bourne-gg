@@ -8,6 +8,28 @@ Visit : https://www.sigmoid.com/company/
 
 ![](https://visitor-badge.glitch.me/badge?page_id=jason-bourne-gg.jason-bourne-gg)
 
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/jason-bourne-gg)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-charjan-310a90163)
+
+[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/@AniketCharjan
+)](https://twitter.com/@AniketCharjan)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:car10@iitbbs.ac.in)
+&nbsp;
+
+### Skills ###
+----------------------------------------------------------------------------------------------------------------------------
+- Languages - **HTML, CSS, JavaScript, TypeScript, Python**
+- Libraries/Frameworks: - **SCSS/SASS, Bootstrap, React, NextJS, Redux, NodeJS, ExpressJS and REST API, React Testing, JEST Test**
+- Databases/ODM: - **MongoDB and Mongoose**
+- Tools: - **Git, Github, Developer Tool, Babel, Azure DevOps, Bitbucket**
+
+----------------------------------------------------------------------------------------------------------------------------
+
+![Ravindra Singh github stats](https://github-readme-stats.vercel.app/api?username=ravindra-me&hide=["issues"]&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jason-bourne-gg&layout=compact&theme=darcula&langs_count=10)
+
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jason-bourne-gg&show_icons=true&theme=gotham" alt="jason-bourne-gg" />
