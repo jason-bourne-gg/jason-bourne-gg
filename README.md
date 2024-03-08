@@ -19,16 +19,12 @@ Visit : https://www.sigmoid.com/company/
 
 ### Skills ###
 ----------------------------------------------------------------------------------------------------------------------------
-- Languages - **HTML, CSS, JavaScript, TypeScript, Python**
-- Libraries/Frameworks: - **SCSS/SASS, Bootstrap, React, NextJS, Redux, NodeJS, ExpressJS and REST API, React Testing, JEST Test**
-- Databases/ODM: - **MongoDB and Mongoose**
-- Tools: - **Git, Github, Developer Tool, Babel, Azure DevOps, Bitbucket**
+- Languages - **C++, JavaScript, TypeScript, Python, HTML, CSS**
+- Libraries/Frameworks: - **NodeJS, ExpressJS and REST API, FLASK & FASTAPI for Python,  React, Redux-Toolkit**
+- Databases/ODM: - **MongoDB and Mongoose, MySQL & SQLAlchemy, Sequalize** 
+- Tools: - **Git, Github, Developer Tool, Azure DevOps, Jira, Bitbucket**
 
 ----------------------------------------------------------------------------------------------------------------------------
-
-![Ravindra Singh github stats](https://github-readme-stats.vercel.app/api?username=ravindra-me&hide=["issues"]&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jason-bourne-gg&layout=compact&theme=darcula&langs_count=10)
 
 📈 My GitHub Stats
 
