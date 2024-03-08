@@ -2,10 +2,10 @@
 
 Welcome to my Github Profile. 
 
-I work as Full-Stack Developer (Majorly Backend) for Sigmoid Analytics -  which provides engineered data solutions that empowers organizations to operationalize data faster and enhance decision making to drive better business outcomes.
+I work as a Full-Stack Developer (Majorly Backend) for Sigmoid Analytics, which provides engineered data solutions that empower organizations to operationalize data faster and enhance decision-making to drive better business outcomes.
 
-Visit My Website :[Click Here](https://portfolio-aniket.web.app/)
-Visit Company Website :[Click Here](https://www.sigmoid.com/company/)
+Visit My Website: [Click Here](https://portfolio-aniket.web.app/)
+Visit Company Website: [Click Here](https://www.sigmoid.com/company/)
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=jason-bourne-gg.jason-bourne-gg)
@@ -21,10 +21,10 @@ Visit Company Website :[Click Here](https://www.sigmoid.com/company/)
 
 ### Skills ###
 ----------------------------------------------------------------------------------------------------------------------------
-- Languages - **C++, JavaScript, TypeScript, Python, HTML, CSS**
-- Libraries/Frameworks: - **NodeJS, ExpressJS and REST API, FLASK & FASTAPI for Python,  React, Redux-Toolkit**
-- Databases/ODM: - **MongoDB and Mongoose, MySQL & SQLAlchemy, Sequalize** 
-- Tools: - **Git, Github, Developer Tool, Azure DevOps, Jira, Bitbucket**
+- Languages: **C++, JavaScript, TypeScript, Python, HTML, CSS**
+- Libraries/Frameworks: **Node.js, Express.js and REST API, FLASK & FASTAPI for Python, React, Redux-Toolkit**
+- Databases/ODM: **MongoDB and Mongoose, MySQL & SQLAlchemy, Sequelize** 
+- Tools: **Git, Github, Developer Tool, Azure DevOps, Jira, Bitbucket**
 
 ----------------------------------------------------------------------------------------------------------------------------
 
