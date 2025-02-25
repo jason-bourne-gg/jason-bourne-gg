@@ -5,7 +5,7 @@ Welcome to my Github Profile.
 I work as an AI Platforms Engineer at BrowserStack, where I focus on building scalable, efficient, and intelligent systems to enhance AI-driven testing and automation. My role involves working with distributed systems, backend development, and optimizing AI-powered workflows.
 
 Visit My Website: [Click Here](https://portfolio-aniket.web.app/) (pretty old..didn't renew)                  
-Visit Employer Website: [Click Here](https://www.sigmoid.com/company/)
+Visit Employer Website: [Click Here](https://www.browserstack.com/)
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=jason-bourne-gg.jason-bourne-gg)
