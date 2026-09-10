@@ -32,6 +32,8 @@ AI app builder for the HighLevel CRM. Describe an app in plain English; Claude w
 
 `Vue 3` `TypeScript` `Firebase` `Claude API`
 
+**[▶ Live](https://genesysbe-cbd7e.web.app)** · **[Demo](https://www.loom.com/share/7af776bf596c4a14824270543d8a56dd)**
+
 </td>
 </tr>
 <tr>
