@@ -88,6 +88,21 @@ Distributed systems, Node and Rails services, an Electron desktop app, Kafka pip
 
 ---
 
+## 🧭 Where I've worked
+
+| | Role | When |
+| --- | --- | --- |
+| **[BrowserStack](https://github.com/browserstack)** | SWE — AI Products | Feb 2025 — present |
+| **[Sigmoid Analytics](https://github.com/sigmoidanalytics)** | SDE-1 — Backend | Jan 2024 — Jan 2025 |
+| **[Sigmoid Analytics](https://github.com/sigmoidanalytics)** | ASDE — Backend | Jul 2022 — Dec 2023 |
+| **IIT Bhubaneswar** | Integrated Masters, CGPA 8.60 | 2017 — 2022 |
+
+Before BrowserStack I built backend platforms at **Sigmoid Analytics** for some of the
+world's largest CPG companies — a budgeting and auditing platform spanning 22 countries,
+and the performance-marketing system behind [Advertising-Tool-Backend](https://github.com/jason-bourne-gg/Advertising-Tool-Backend).
+
+---
+
 ## 📊 By the numbers
 
 <p align="center">
