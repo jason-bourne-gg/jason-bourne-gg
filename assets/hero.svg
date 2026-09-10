@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-label="Aniket Ravindra Charjan — AI Platforms Engineer at BrowserStack">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="55%" stop-color="#111a2b"/>
+      <stop offset="100%" stop-color="#0a1a2f"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f97316"/>
+      <stop offset="45%" stop-color="#e11d48"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6366f1" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#6366f1" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="240" rx="12" fill="url(#bg)"/>
+  <circle cx="880" cy="60"  r="150" fill="url(#fade)"/>
+  <circle cx="935" cy="185" r="70"  fill="#f97316" opacity="0.10"/>
+
+  <g opacity="0.16" fill="none" stroke="#7d8ea3" stroke-width="1">
+    <path d="M700 30 L760 30 L790 60 L790 120"/>
+    <path d="M730 210 L790 210 L820 180 L820 130"/>
+    <path d="M660 120 L700 120 L720 100"/>
+  </g>
+  <g opacity="0.5" fill="#f97316">
+    <circle cx="790" cy="120" r="3.5"/><circle cx="820" cy="130" r="3.5"/><circle cx="720" cy="100" r="3.5"/>
+  </g>
+
+  <rect x="0" y="0" width="6" height="240" rx="3" fill="url(#accent)"/>
+
+  <text x="56" y="86" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="44" font-weight="700" fill="#f0f6fc" letter-spacing="0.5">Aniket Ravindra Charjan</text>
+  <rect x="56" y="102" width="120" height="4" rx="2" fill="url(#accent)"/>
+  <text x="56" y="141" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#f97316">AI Platforms Engineer @ BrowserStack</text>
+  <text x="56" y="176" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15.5" fill="#9aa7b8">I build the platform that lets AI agents drive real browsers.</text>
+  <text x="56" y="199" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15.5" fill="#9aa7b8">After hours I ship small, finished things.</text>
+
+  <g font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12.5" fill="#7d8ea3">
+    <text x="56" y="226">Bengaluru, India</text>
+    <text x="170" y="226">·</text>
+    <text x="186" y="226">IIT Bhubaneswar</text>
+    <text x="300" y="226">·</text>
+    <text x="316" y="226">TypeScript · Python · Node · Rails · LLM agents</text>
+  </g>
+</svg>
