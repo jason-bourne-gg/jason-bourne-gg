@@ -1,36 +1,36 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="196" viewBox="0 0 1000 196" role="img" aria-label="Language distribution across public repositories">
 <rect width="1000" height="196" rx="12" fill="#0d1117"/>
 <text x="40" y="36" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#f0f6fc">Languages across my public repos</text>
-<text x="960" y="36" text-anchor="end" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#7d8ea3">1.39 MB of code</text>
+<text x="960" y="36" text-anchor="end" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#7d8ea3">1.40 MB of code</text>
 <defs><clipPath id="r"><rect x="40" y="58" width="920" height="18" rx="9"/></clipPath></defs>
 <g clip-path="url(#r)">
-<rect x="40.00" y="58" width="297.93" height="18" fill="#3178c6"/>
-<rect x="337.93" y="58" width="240.24" height="18" fill="#3572A5"/>
-<rect x="578.17" y="58" width="159.08" height="18" fill="#f1e05a"/>
-<rect x="737.25" y="58" width="113.00" height="18" fill="#f34b7d"/>
-<rect x="850.25" y="58" width="79.54" height="18" fill="#41b883"/>
-<rect x="929.78" y="58" width="15.18" height="18" fill="#563d7c"/>
-<rect x="944.97" y="58" width="13.14" height="18" fill="#e34c26"/>
-<rect x="958.11" y="58" width="1.89" height="18" fill="#6e7681"/>
+<rect x="40.00" y="58" width="299.71" height="18" fill="#3178c6"/>
+<rect x="339.71" y="58" width="239.20" height="18" fill="#3572A5"/>
+<rect x="578.91" y="58" width="159.31" height="18" fill="#f1e05a"/>
+<rect x="738.22" y="58" width="112.51" height="18" fill="#f34b7d"/>
+<rect x="850.73" y="58" width="79.19" height="18" fill="#41b883"/>
+<rect x="929.92" y="58" width="15.12" height="18" fill="#563d7c"/>
+<rect x="945.04" y="58" width="13.08" height="18" fill="#e34c26"/>
+<rect x="958.12" y="58" width="1.88" height="18" fill="#6e7681"/>
 </g>
 <circle cx="45" cy="112" r="5.5" fill="#3178c6"/>
 <text x="58" y="116" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" fill="#c9d1d9">TypeScript</text>
-<text x="142" y="116" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#8b949e">32.4%</text>
+<text x="142" y="116" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#8b949e">32.6%</text>
 <circle cx="235" cy="112" r="5.5" fill="#3572A5"/>
 <text x="248" y="116" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" fill="#c9d1d9">Python</text>
-<text x="302" y="116" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#8b949e">26.1%</text>
+<text x="302" y="116" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#8b949e">26.0%</text>
 <circle cx="425" cy="112" r="5.5" fill="#f1e05a"/>
 <text x="438" y="116" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" fill="#c9d1d9">JavaScript</text>
 <text x="522" y="116" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#8b949e">17.3%</text>
 <circle cx="615" cy="112" r="5.5" fill="#f34b7d"/>
 <text x="628" y="116" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" fill="#c9d1d9">C++</text>
-<text x="659" y="116" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#8b949e">12.3%</text>
+<text x="659" y="116" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#8b949e">12.2%</text>
 <circle cx="45" cy="148" r="5.5" fill="#41b883"/>
 <text x="58" y="152" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" fill="#c9d1d9">Vue</text>
 <text x="89" y="152" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#8b949e">8.6%</text>
 <circle cx="235" cy="148" r="5.5" fill="#563d7c"/>
 <text x="248" y="152" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" fill="#c9d1d9">CSS</text>
-<text x="279" y="152" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#8b949e">1.7%</text>
+<text x="279" y="152" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#8b949e">1.6%</text>
 <circle cx="425" cy="148" r="5.5" fill="#e34c26"/>
 <text x="438" y="152" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" fill="#c9d1d9">HTML</text>
 <text x="476" y="152" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#8b949e">1.4%</text>
