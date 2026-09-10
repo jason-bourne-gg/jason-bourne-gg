@@ -33,7 +33,7 @@
 
   <text x="56" y="86" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="44" font-weight="700" fill="#f0f6fc" letter-spacing="0.5">Aniket Ravindra Charjan</text>
   <rect x="56" y="102" width="120" height="4" rx="2" fill="url(#accent)"/>
-  <text x="56" y="141" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#f97316">AI Platforms Engineer @ BrowserStack</text>
+  <text x="56" y="141" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#f97316">AI Platforms Engineer @ BrowserStack<tspan font-size="15" font-weight="400" fill="#7d8ea3">   ·   ex-Sigmoid Analytics</tspan></text>
   <text x="56" y="176" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15.5" fill="#9aa7b8">I build the platform that lets AI agents drive real browsers.</text>
   <text x="56" y="199" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15.5" fill="#9aa7b8">After hours I ship small, finished things.</text>
 
