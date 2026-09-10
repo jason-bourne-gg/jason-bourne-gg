@@ -130,7 +130,10 @@ and the performance-marketing system behind [Advertising-Tool-Backend](https://g
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-&nbsp;· RAG · embeddings · agent evals &amp; cost telemetry
+![RAG](https://img.shields.io/badge/RAG-5B21B6?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0zIDNoOXYySDN6TTMgN2g5djJIM3pNMyAxMWg2djJIM3pNMyAxNWg2djJIM3oiLz48cGF0aCBkPSJNMTYuNSAxMGE1LjUgNS41IDAgMSAwIDMuMTYgOS45OWwyLjY3IDIuNjggMS40MS0xLjQyLTIuNjctMi42N0E1LjUgNS41IDAgMCAwIDE2LjUgMTB6bTAgMmEzLjUgMy41IDAgMSAxIDAgNyAzLjUgMy41IDAgMCAxIDAtN3oiLz48L3N2Zz4=)
+![Embeddings](https://img.shields.io/badge/Embeddings-0F766E?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yIDIyVjJoMnYxOGgxOHYyeiIvPjxwYXRoIGQ9Ik00LjYgMTkuNCAxNSA5bDEuNCAxLjRMNiAyMC44eiIvPjxwYXRoIGQ9Ik0xOCA3aC01VjVoN3Y3aC0yeiIvPjxjaXJjbGUgY3g9IjkiIGN5PSI3IiByPSIyIi8+PGNpcmNsZSBjeD0iMTQiIGN5PSIxNiIgcj0iMiIvPjxjaXJjbGUgY3g9IjE5IiBjeT0iMTQiIHI9IjEuNiIvPjwvc3ZnPg==)
+![Agent evals](https://img.shields.io/badge/Agent_evals-B45309?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik05IDJoNmExIDEgMCAwIDEgMSAxdjFoMmEyIDIgMCAwIDEgMiAydjE0YTIgMiAwIDAgMS0yIDJINmEyIDIgMCAwIDEtMi0yVjZhMiAyIDAgMCAxIDItMmgyVjNhMSAxIDAgMCAxIDEtMXptMSAydjJoNFY0em0tLjYgMTQuMkw2LjIgMTVsMS40LTEuNCAxLjggMS44IDUuNC01LjRMMTYuMiAxMXoiLz48L3N2Zz4=)
+![Cost telemetry](https://img.shields.io/badge/Cost_telemetry-9F1239?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0zIDIwaDE4djJIM3pNNSAxMmgzdjdINXpNMTAgOGgzdjExaC0zek0xNSA0aDN2MTVoLTN6Ii8+PC9zdmc+)
 
 **Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
