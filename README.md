@@ -158,5 +158,5 @@ and the performance-marketing system behind [Advertising-Tool-Backend](https://g
 ---
 
 <p align="center">
-  <i>e-sports &gt; sports &nbsp;·&nbsp; Carlos Rodríguez &gt; Elon Musk &nbsp;·&nbsp; <a href="https://twitter.com/G2esports">@G2esports</a></i>
+  <i>e-sports &gt; sports &nbsp;·&nbsp; Carlos Rodríguez &gt; Elon Musk &nbsp;·&nbsp; <a href="https://twitter.com/G2esports">@G2esports</a> 🔥</i>
 </p>
