@@ -1,52 +1,145 @@
-### Hi there 👋
+<p align="center">
+  <img src="assets/hero.svg" alt="Aniket Ravindra Charjan — AI Platforms Engineer at BrowserStack" width="100%"/>
+</p>
 
-Welcome to my Github Profile. 
+<p align="center">
+  <a href="https://aniket-charjan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0b0f14?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/aniket-charjan-310a90163"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjUgMHoiLz48L3N2Zz4=" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/AniketCharjan"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="mailto:car10@iitbbs.ac.in"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-I work as an AI Platforms Engineer at BrowserStack, where I focus on building scalable, efficient, and intelligent systems to enhance AI-driven testing and automation. My role involves working with distributed systems, backend development, and optimizing AI-powered workflows.
+---
 
-Visit My Website: [Click Here](https://portfolio-aniket.web.app/) (pretty old..didn't renew)                  
-Visit Employer Website: [Click Here](https://www.browserstack.com/)
+## 🚀 Things I've built
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![](https://visitor-badge.glitch.me/badge?page_id=jason-bourne-gg.jason-bourne-gg)
+### 🎮 [Road Clash](https://github.com/jason-bourne-gg/road-clash)
+Pseudo-3D Road Rash-style combat racer — hand-written renderer, physics and audio, **no game engine**. Solo campaign plus **P2P multiplayer with live voice**.
 
-### 📫 How to reach me:
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/jason-bourne-gg)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-charjan-310a90163)
+`TypeScript` `Canvas` `WebRTC` `Vite`
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/@AniketCharjan
-)](https://twitter.com/@AniketCharjan)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:car10@iitbbs.ac.in)
-&nbsp;
+**[▶ Play it](https://road-clash.vercel.app)**
 
-### Skills ###
-----------------------------------------------------------------------------------------------------------------------------
-- Languages: **C++, JavaScript, TypeScript, Python, HTML, CSS**
-- Libraries/Frameworks: **Node.js, Express.js and REST API, FLASK & FASTAPI for Python, React, Redux-Toolkit**
-- Databases/ODM: **MongoDB and Mongoose, MySQL & SQLAlchemy, Sequelize** 
-- Tools: **Git, Github, Developer Tool, Azure DevOps, Jira, Bitbucket**
+</td>
+<td width="50%" valign="top">
 
-----------------------------------------------------------------------------------------------------------------------------
+### 🧬 [Genesis](https://github.com/jason-bourne-gg/genesis-highlevel-app-builder)
+AI app builder for the HighLevel CRM. Describe an app in plain English; Claude writes the files while you watch, and it runs on your real contacts and calendars.
 
-📈 My GitHub Stats
+`Vue 3` `TypeScript` `Firebase` `Claude API`
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jason-bourne-gg&show_icons=true&theme=gotham" alt="jason-bourne-gg" />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
+### 📡 [DirectDrop](https://github.com/jason-bourne-gg/DirectDrop)
+Send a file straight to another browser. No upload, no server, no account — the bytes go peer-to-peer and never touch a backend.
 
-<p align="center"> <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=jason-bourne-gg&layout=compact&theme=gotham" />
+`TypeScript` `WebRTC` `Trystero`
 
-<!--
-**aniket-sigmoid/aniket-sigmoid** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+**[▶ Try it](https://direct-drop-sigma.vercel.app)**
 
-Here are some ideas to get you started:
+</td>
+<td width="50%" valign="top">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 [my-mcp-server](https://github.com/jason-bourne-gg/my-mcp-server)
+My résumé as an MCP server — Tools, Resources **and** Prompts. Point Claude or Cursor at it and interview me over stdio.
 
+`MCP` `TypeScript` `Anthropic SDK`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✂️ [Agent Web Clipper](https://github.com/jason-bourne-gg/web-clipper-extension)
+One-click Chrome extension turning any page into clean, LLM-ready Markdown or JSON. Pure readability heuristics — **no AI in the loop**.
+
+`Manifest V3` `JavaScript`
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 [Doc Parser RAG Bot](https://github.com/jason-bourne-gg/DOC-PARSER-RAG-BOT)
+RAG over your own documents: pgvector similarity search, chunk re-ranking, and answers generated by Claude.
+
+`Node` `PostgreSQL` `LangChain` `Claude`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 What I do all day
+
+At **BrowserStack** I work on Low Code Automation — the platform where an AI agent authors, runs and repairs browser tests without anyone writing code. Mostly **agentic test authoring**, **self-healing replay**, and the **accuracy/cost telemetry** that keeps a fleet of LLM-driven runs honest.
+
+Distributed systems, Node and Rails services, an Electron desktop app, Kafka pipelines — and a lot of time spent asking *"why did the agent do that?"*
+
+> 💡 Work commits land under **[@aniket-charjan](https://github.com/aniket-charjan)**. This account is where the side projects live.
+
+---
+
+## 📊 By the numbers
+
+<p align="center">
+  <img src="assets/langs.svg" alt="Language distribution across my public repositories" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jason-bourne-gg&theme=dark&hide_border=true&background=0D1117&ring=F97316&fire=E11D48&currStreakLabel=F97316&sideNums=C9D1D9&sideLabels=8B949E&dates=7D8EA3&currStreakNum=F0F6FC" alt="GitHub streak" width="70%"/>
+</p>
+
+---
+
+## ⚙️ Tech I reach for
+
+**Languages**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
+**AI &amp; Agents**  
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+&nbsp;· RAG · embeddings · agent evals &amp; cost telemetry
+
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+
+**Data &amp; Infra**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+
+---
+
+<p align="center">
+  <i>e-sports &gt; sports &nbsp;·&nbsp; Carlos Rodríguez &gt; Elon Musk &nbsp;·&nbsp; <a href="https://twitter.com/G2esports">@G2esports</a></i>
+</p>
