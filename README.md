@@ -18,7 +18,7 @@
 <td width="50%" valign="top">
 
 ### 🏘️ [Plotting Society](https://github.com/jason-bourne-gg/plotting-society)
-Portal for plot-land societies, built against a real **823-plot, 58-acre** project in Nagpur. Live layout map, site-progress feed, **append-only** society ledger and owner queries on a visible SLA clock. Guests browse and enquire with no account.
+Portal for plot-land societies, built against a real **823-plot** project in Nagpur. Live layout map, **append-only** ledger, and owner queries on a **visible SLA clock**.
 
 `Go` `Postgres` `React` `TypeScript` `Cloudflare Workers`
 
