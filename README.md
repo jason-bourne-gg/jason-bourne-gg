@@ -17,6 +17,16 @@
 <tr>
 <td width="50%" valign="top">
 
+### 🔬 [agent-evals](https://github.com/jason-bourne-gg/agent-evals)
+Eval and observability harness for LLM agents. Records model calls once and **replays them offline**, so the suite runs with **no API key** — and its own CI runs it on every push. Pairwise judge in **both orders**, calibrated against human labels.
+
+`TypeScript` `LLM evals` `Tracing` `Record/Replay` `CI gates`
+
+**92% replayed · 28% live** — the gap is the point
+
+</td>
+<td width="50%" valign="top">
+
 ### 🏘️ [Plotting Society](https://github.com/jason-bourne-gg/plotting-society)
 Portal for plot-land societies, built against a real **823-plot** project in Nagpur. Live layout map, **append-only** ledger, and owner queries on a **visible SLA clock**.
 
@@ -25,6 +35,8 @@ Portal for plot-land societies, built against a real **823-plot** project in Nag
 **[▶ Live](https://plotting-society.aniketcharjan3.workers.dev)** · runs at **₹0/month**
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🎮 [Road Clash](https://github.com/jason-bourne-gg/road-clash)
@@ -35,8 +47,6 @@ Pseudo-3D Road Rash-style combat racer — hand-written renderer, physics and au
 **[▶ Play it](https://road-clash.vercel.app)**
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🧬 [Genesis](https://github.com/jason-bourne-gg/genesis-highlevel-app-builder)
@@ -47,6 +57,8 @@ AI app builder for the HighLevel CRM. Describe an app in plain English; Claude w
 **[▶ Live](https://genesysbe-cbd7e.web.app)** · **[Demo](https://www.loom.com/share/7af776bf596c4a14824270543d8a56dd)**
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📡 [DirectDrop](https://github.com/jason-bourne-gg/DirectDrop)
@@ -57,8 +69,6 @@ Send a file straight to another browser. No upload, no server, no account — th
 **[▶ Try it](https://direct-drop-sigma.vercel.app)**
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🤖 [my-mcp-server](https://github.com/jason-bourne-gg/my-mcp-server)
@@ -67,6 +77,8 @@ My résumé as an MCP server — Tools, Resources **and** Prompts. Point Claude 
 `MCP` `TypeScript` `Anthropic SDK`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### ✂️ [Agent Web Clipper](https://github.com/jason-bourne-gg/web-clipper-extension)
@@ -75,8 +87,6 @@ One-click Chrome extension turning any page into clean, LLM-ready Markdown or JS
 `Manifest V3` `JavaScript`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📚 [Doc Parser RAG Bot](https://github.com/jason-bourne-gg/DOC-PARSER-RAG-BOT)
